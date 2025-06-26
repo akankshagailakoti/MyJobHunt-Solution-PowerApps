@@ -11,7 +11,7 @@ A Power Apps Canvas App to help job seekers track their job applications. Built 
 3. **Add New Application**  
    ![New Application](https://github.com/akankshagailakoti/MyJobHunt-Solution-PowerApps/blob/main/Add%20New%20Application.png)
 4. **Undo Delete Feature**  
-   ![Delete & Undo Featute](https://github.com/akankshagailakoti/MyJobHunt-Solution-PowerApps/blob/main/Edit%20Job%20Status.png)
+   ![Delete & Undo Featute](https://github.com/akankshagailakoti/MyJobHunt-Solution-PowerApps/blob/main/Undo%20Feature.png)
 6. **Edit Job Status**  
    ![Edit Job Status](https://github.com/akankshagailakoti/MyJobHunt-Solution-PowerApps/blob/main/Edit%20Job%20Status.png)
 
